@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="action_cancel">Отменить</string>
+    <string name="action_add_contact">Добавить</string>
+    <string name="title_main_screen">Контакты</string>
+    <string name="action_add_new_contact">Добавить новый контакт</string>
+    <string name="message_contact_added">Добавлен новый контакт</string>
+    <string name="title_add_contact">Новый контакт</string>
+    <string name="label_last_name">Фамилия</string>
+    <string name="label_first_name">Имя</string>
+    <string name="label_middle_name">Отчество, если есть</string>
+</resources>
